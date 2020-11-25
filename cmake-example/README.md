@@ -7,7 +7,8 @@ enter build directory (all build files in one folder will make it easy for clean
 cd build
 
 run cmake command using this command
-cmake <path of CMakeLists.txt file>
+
+cmake /path/to/camkelistfile
 
 after this commane makefile will be generated, then run following commands
 
