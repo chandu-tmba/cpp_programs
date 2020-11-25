@@ -10,7 +10,7 @@ run cmake command using this command
 
 cmake /path/to/camkelistfile
 
-after this commane makefile will be generated, then run following commands
+after this command makefile will be generated, then run following commands
 
 make
 
