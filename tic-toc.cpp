@@ -180,6 +180,5 @@ int main()
     }
     if(count == 9)
         cout << "game draw\n";
-
     return 0;
 }
